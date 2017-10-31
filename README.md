@@ -1,2 +1,2 @@
 # physicsFX
-a very minimal 2d physics sandbox
+a very minimal 2d physics sandbox built in JavaFX
